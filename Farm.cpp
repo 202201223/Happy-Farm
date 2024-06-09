@@ -1,0 +1,21 @@
+#include "Person.h"
+#include "Vet.h"
+#include "Engineer.h"
+#include "Worker.h"
+#include "Field.h"
+#include "Office.h"
+#include "Animal.h"
+#include "Sheep.h"
+#include "Cow.h"
+#include "Chicken.h"
+#include "Plant.h"
+#include "Corn.h"
+#include "Rice.h"
+#include "Wheat.h"
+#include "Product.h"
+#include "Milk.h"
+#include "Egg.h"
+#include "Wool.h"
+int main(){
+    ///Making an object from each class
+}
